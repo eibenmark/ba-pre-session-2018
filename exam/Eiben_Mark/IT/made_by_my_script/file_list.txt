@@ -1,0 +1,5 @@
+total 1
+drwxr-xr-x 1 Mark 197609  0 szept 14 13:29 ./
+drwxr-xr-x 1 Mark 197609  0 szept 14 13:29 ../
+-rw-r--r-- 1 Mark 197609  0 szept 14 13:29 file_list.txt
+-rw-r--r-- 1 Mark 197609 13 szept 14 13:29 hello.txt
